@@ -1,4 +1,4 @@
-# Newfeeling
+# ![Newfeeling Logo](https://cdn.modrinth.com/data/cached_images/7101c02fc790d4f588a0504a4f360ce1c9d78fd1_0.webp)
 **关于**  
 
 New feeling 旨在为玩家提供新的感觉,并在原版的基础上提供一定的性能优化和美化  
