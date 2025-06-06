@@ -18,10 +18,11 @@
 2. **保持开源精神**：衍生作品必须回馈社区（SA条款）  
 3. **明确法律边界**：玩家可安全使用/修改，无需担心版权风险  
 
-> 完整协议文本请访问 [Creative Commons官网](https://creativecommons.org/licenses/by-nc-sa/4.0/)好的！以下是按照您的要求重新编写的 **New Feeling 整合包介绍**，保持原意但优化了表达和结构：
+> 完整协议文本请访问 [Creative Commons官网](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
+### **介绍**
 **核心理念**  
 在保留原版精髓的基础上，我们通过 **性能优化** 和 **视觉美化** 的平衡，为玩家带来全新的游戏感受。Free Team 坚信，不必在“流畅”和“好看”之间二选一——这份整合包就是我们的答案。  
 
